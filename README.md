@@ -49,6 +49,7 @@ Employee attrition is a critical challenge for HR management. This project analy
 
 ## 📁 Repository Structure
 ```text
-├── HR_Analytics.pbix       # Interactive Power BI Dashboard
-├── HR_Analytics.csv        # Dataset used for analysis
-└── README.md               # Project Documentation
+├── HR_Analytics.pbix           # Interactive Power BI Dashboard
+├── HR_Analytics.csv            # Dataset used for analysis
+├── HR_Analytics_Dashboard.png  # Dashboard Screenshot
+└── README.md                   # Project Documentation
